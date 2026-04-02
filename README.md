@@ -15,7 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibajahangir&layout=compact&theme=tokyonight)
 ---
