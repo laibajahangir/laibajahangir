@@ -39,32 +39,58 @@ I work at the intersection of **DevOps, DevSecOps, and Digital Transformation**,
 
 ## 🛠️ Tech & Skills
 
----
-
-## 🛠️ Tech & Skills
-
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-green?style=for-the-badge)
+![GitOps](https://img.shields.io/badge/GitOps-black?style=for-the-badge)
+
+---
 
 ### ☸️ Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/Helm-563D7C?style=for-the-badge&logo=helm)
+![Containerd](https://img.shields.io/badge/Containerd-grey?style=for-the-badge)
+
+---
 
 ### 🐧 Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge)
 
-### 🔐 Security & Governance
+---
+
+### 🔐 Security & Governance (DevSecOps / GRC)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
 ![GRC](https://img.shields.io/badge/GRC-darkred?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-purple?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk_Management-brown?style=for-the-badge)
 
-### 🤖 AI & Automation
+---
+
+### 🤖 AI, Automation & Observability
 ![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-black?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-blue?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-darkblue?style=for-the-badge)
+
+---
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![CI Tools](https://img.shields.io/badge/CI_Tools-grey?style=for-the-badge)
+
+---
+
+### 🧠 Methodologies
+![Agile](https://img.shields.io/badge/Agile-green?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge)
+![DevSecOps Culture](https://img.shields.io/badge/DevSecOps_Culture-purple?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-black?style=for-the-badge)
 ---
 
