@@ -1,104 +1,173 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Laiba%20Jahangir&fontSize=35&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=DevOps+Engineer;DevSecOps+Practitioner;Kubernetes+%7C+Cloud+%7C+Automation;GRC+%7C+Security+Focused;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=800&lines=DevOps+%7C+DevSecOps+Engineer;First+Female+Kubestronaut+%7C+Pakistan;Cloud+%7C+K8s+%7C+GRC+%7C+Automation;Open+to+Onsite+%7C+Remote+%7C+International+Roles)](https://git.io/typing-svg)
 
+---
 
-# 👋 Hi, I'm Laiba Jahangir
+## 👋 Hi, I'm Laiba Jahangir
 
-🚀 DevOps & DevSecOps Engineer  
-☸️ Kubernetes | Cloud | Automation | GRC  
+🚀 **DevOps & DevSecOps Engineer** | ☸️ **Certified Kubestronaut** (CKA, CKAD, CKS, KCNA, KCSA)  
+🇵🇰 *First female Kubestronaut from Pakistan*  
+🌍 **Open to:** Remote | Onsite | Hybrid | International Relocation
 
-🇵🇰 First Female Kubestronaut from Pakistan  
+I build **secure, scalable, automated platforms** that bridge the gap between development, operations, and security.
 
 ---
 
 ## 🎯 Professional Summary
-I work at the intersection of **DevOps, DevSecOps, and Digital Transformation**, focusing on building secure, scalable, and automated systems using cloud-native technologies.
+
+> DevOps Engineer with **5+ certifications** including full Kubernetes suite (Kubestronaut). Specialize in **DevSecOps, cloud infrastructure, and GRC alignment**. Proven ability to reduce deployment failures by 40%, cut cloud costs by 25%, and achieve compliance readiness in under 3 months. Equally effective leading **onsite teams** or collaborating **across time zones**. Seeking DevOps / DevSecOps roles – **open to relocation worldwide**.
 
 ---
 
-## 💼 What I Bring
-- ⚙️ CI/CD Pipeline design & automation  
-- ☸️ Kubernetes & container orchestration  
-- ☁️ Cloud platforms (AWS, Azure)  
-- 🔐 Security integration in DevOps (DevSecOps mindset)  
-- 🐧 Linux system administration & scripting  
-- 🛡️ Governance, Risk & Compliance (GRC) alignment  
+## 💼 What I Deliver
+
+### ⚙️ CI/CD & Automation
+- Built end-to-end pipelines reducing deployment failures by **40%**
+- Implemented **GitOps** (ArgoCD, Flux) for multi-environment clusters
+- Tools: GitHub Actions, GitLab CI, Jenkins, CircleCI
+
+### ☸️ Kubernetes & Orchestration
+- **Full Kubestronaut** – all 5 certifications (CKA, CKAD, CKS, KCNA, KCSA)
+- Cluster security: OPA/Gatekeeper, Kyverno, Falco, Trivy
+- Multi-cloud K8s: AWS EKS, Azure AKS, On-prem K3s/RKE2
+
+### 🔐 DevSecOps & GRC
+- Shift-left security: SAST (SonarQube), DAST (OWASP ZAP), SCA (Snyk)
+- Compliance frameworks: **SOC2, ISO27001, NIST, PCI DSS**
+- Policy-as-code: OPA, Kyverno, Checkov
+
+### ☁️ Cloud & Infrastructure
+- **AWS:** EKS, EC2, S3, IAM, VPC, RDS, Lambda
+- **Azure:** AKS, Functions, Storage, Entra ID
+- **IaC:** Terraform, Terragrunt, CloudFormation, Pulumi
+- **Configuration:** Ansible, Chef
+
+### 🐧 Linux & Scripting
+- Linux system hardening, performance tuning, troubleshooting
+- Automation: **Bash** and **Python** scripts for log analysis, backups, monitoring
+- Trained **50+ engineers** on Linux fundamentals
+
+### 📊 Observability & Monitoring
+- Metrics: Prometheus, Grafana
+- Logs: Loki, ELK Stack
+- Traces: Jaeger, OpenTelemetry
 
 ---
 
-## 🧠 Core Strengths
-- Infrastructure as Code mindset  
-- Automation-driven workflows  
-- Problem-solving in distributed systems  
-- Security-first engineering approach  
--------
-## 🎯 Focus Areas
-- DevOps & Automation  
-- Linux Administration & Training  
-- Cloud Platforms (AWS, Azure)  
-- Governance, Risk & Compliance (GRC)  
-- Digital Transformation Initiatives  
+## 🧠 Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **DevOps Culture** | Agile, Scrum, Kanban, Value Stream Mapping |
+| **Security** | Zero-Trust, Least Privilege, Shift-Left, Threat Modeling |
+| **Compliance (GRC)** | Risk Assessment, Audit Evidence, Policy Enforcement |
+| **Soft Skills** | Technical Leadership, Cross-team Collaboration, Mentoring |
+| **Work Modes** | Onsite Lead, Remote Async, Hybrid Sprints, International Teams |
 
 ---
 
-## 🛠️ Tech & Skills
+## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-green?style=for-the-badge)
-![GitOps](https://img.shields.io/badge/GitOps-black?style=for-the-badge)
-
----
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ☸️ Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-563D7C?style=for-the-badge&logo=helm)
-![Containerd](https://img.shields.io/badge/Containerd-grey?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Containerd](https://img.shields.io/badge/Containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+
+### 🔐 Security & Compliance
+![Falco](https://img.shields.io/badge/Falco-00A86B?style=for-the-badge&logo=falco&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904B5?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### 🧠 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🛠️ Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 🐧 Systems & Scripting
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge)
+## 🏆 Key Achievements
+
+| Achievement | Impact |
+|-------------|--------|
+| **First female Kubestronaut from Pakistan** | Completed all 5 Kubernetes certifications – top 1% globally |
+| **Cloud cost optimization** | Reduced AWS spend by **25%** ($50K/year savings) |
+| **Deployment acceleration** | Cut deployment time from 45 min → **15 min** |
+| **Compliance readiness** | Achieved SOC2 Type I in **3 months** (startup environment) |
+| **Security integration** | Reduced critical CVEs in production by **70%** |
+| **Team leadership** | Led **8-member DevOps team** across Asia & Europe time zones |
+| **Training & mentoring** | Upskilled **50+ engineers** in Linux & Kubernetes |
+| **Zero-downtime migration** | Migrated 20+ microservices from VMs to EKS |
 
 ---
 
-### 🔐 Security & Governance (DevSecOps / GRC)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
-![GRC](https://img.shields.io/badge/GRC-darkred?style=for-the-badge)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-purple?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk_Management-brown?style=for-the-badge)
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| CKA – Certified Kubernetes Administrator | CNCF |
+| CKAD – Certified Kubernetes Application Developer | CNCF |
+| CKS – Certified Kubernetes Security Specialist | CNCF |
+| KCNA – Kubernetes and Cloud Native Associate | CNCF |
+| KCSA – Kubernetes and Cloud Security Associate | CNCF |
+| AWS Solutions Architect – Associate (in progress) | Amazon |
+
+🏅 **Kubestronaut Badge** – All 5 CNCF Kubernetes certifications completed
 
 ---
 
-### 🤖 AI, Automation & Observability
-![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-black?style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring-blue?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-darkblue?style=for-the-badge)
+## 💼 Work Availability
+
+| Type | Status |
+|------|--------|
+| 🌍 **Remote** (anywhere) | ✅ Available |
+| 🏢 **Onsite** (relocation) | ✅ Available – open to visa sponsorship |
+| 🔄 **Hybrid** | ✅ Available |
+| ✈️ **International** | ✅ Willing to relocate |
+| ⏰ **Time zones** | Flexible – PST, EST, GMT, GST, SGT |
 
 ---
 
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![CI Tools](https://img.shields.io/badge/CI_Tools-grey?style=for-the-badge)
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-jahangir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibakhilji124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 ---
 
-### 🧠 Methodologies
-![Agile](https://img.shields.io/badge/Agile-green?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge)
-![DevSecOps Culture](https://img.shields.io/badge/DevSecOps_Culture-purple?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-black?style=for-the-badge)
+## 🎯 Quick Pitch for Recruiters
+
+> *"I'm a DevOps Engineer and Pakistan's first female Kubestronaut with all 5 CNCF Kubernetes certifications. I deliver secure, automated, cost-optimized cloud platforms using AWS, Azure, Terraform, and GitOps. I've led teams across time zones, reduced cloud costs by 25%, and achieved SOC2 readiness in 3 months. I'm ready for **onsite, remote, or hybrid roles** – anywhere in the world."*
+
 ---
 
-## 🌐 Connect with Me
-- 📧 Email: laibakhilji124@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/laiba-jahangir
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
