@@ -1,19 +1,32 @@
 # 👋 Hi, I'm Laiba Jahangir
 
-🚀 First Female Kubestronaut from Pakistan 🇵🇰  
-💻 Cybersecurity | Cloud | AI | AIOps Enthusiast  
+🚀 DevOps & DevSecOps Engineer  
+☸️ Kubernetes | Cloud | Automation | GRC  
+
+🇵🇰 First Female Kubestronaut from Pakistan  
 
 ---
 
-## 🌟 About Me
-- 🔐 DevOps & Linux Trainer  
-- ☁️ Working in Digital Transformation, DevOps, and Cloud environments  
-- 🛡️ Part of Governance, Risk & Compliance (GRC) team  
-- 🤖 Interested in AI, Automation & AIOps  
-- 🎓 Completed Diploma in Artificial Intelligence Operations  
----
-## 📊 GitHub Stats
+## 🎯 Professional Summary
+I work at the intersection of **DevOps, DevSecOps, and Digital Transformation**, focusing on building secure, scalable, and automated systems using cloud-native technologies.
 
+---
+
+## 💼 What I Bring
+- ⚙️ CI/CD Pipeline design & automation  
+- ☸️ Kubernetes & container orchestration  
+- ☁️ Cloud platforms (AWS, Azure)  
+- 🔐 Security integration in DevOps (DevSecOps mindset)  
+- 🐧 Linux system administration & scripting  
+- 🛡️ Governance, Risk & Compliance (GRC) alignment  
+
+---
+
+## 🧠 Core Strengths
+- Infrastructure as Code mindset  
+- Automation-driven workflows  
+- Problem-solving in distributed systems  
+- Security-first engineering approach  
 -------
 ## 🎯 Focus Areas
 - DevOps & Automation  
