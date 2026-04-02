@@ -1,3 +1,8 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Laiba%20Jahangir&fontSize=35&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=DevOps+Engineer;DevSecOps+Practitioner;Kubernetes+%7C+Cloud+%7C+Automation;GRC+%7C+Security+Focused;Building+Scalable+Systems)](https://git.io/typing-svg)
+
+
 # 👋 Hi, I'm Laiba Jahangir
 
 🚀 DevOps & DevSecOps Engineer  
@@ -96,3 +101,4 @@ I work at the intersection of **DevOps, DevSecOps, and Digital Transformation**,
 
 ## 🌐 Connect with Me
 - 📧 Email: laibakhilji124@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/laiba-jahangir
