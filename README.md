@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Laiba Jahangir
 
-<!--
-**laibajahangir/laibajahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 First Female Kubestronaut from Pakistan 🇵🇰  
+💻 Cybersecurity | Cloud | AI | AIOps Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔐 DevOps & Linux Trainer  
+- ☁️ Working in Digital Transformation, DevOps, and Cloud environments  
+- 🛡️ Part of Governance, Risk & Compliance (GRC) team  
+- 🤖 Interested in AI, Automation & AIOps  
+- 🎓 Completed Diploma in Artificial Intelligence Operations  
+
+---
+
+## 🎯 Focus Areas
+- DevOps & Automation  
+- Linux Administration & Training  
+- Cloud Platforms (AWS, Azure)  
+- Governance, Risk & Compliance (GRC)  
+- Digital Transformation Initiatives  
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: laibakhilji124@gmail.com
