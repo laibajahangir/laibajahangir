@@ -11,7 +11,13 @@
 - 🛡️ Part of Governance, Risk & Compliance (GRC) team  
 - 🤖 Interested in AI, Automation & AIOps  
 - 🎓 Completed Diploma in Artificial Intelligence Operations  
+---
 
+## 📊 GitHub Stats
+
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibajahangir&layout=compact&theme=tokyonight)
 ---
 
 ## 🎯 Focus Areas
