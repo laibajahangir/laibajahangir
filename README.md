@@ -14,9 +14,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibajahangir&layout=compact&theme=tokyonight&cache_seconds=1800)
+-------
 ## 🎯 Focus Areas
 - DevOps & Automation  
 - Linux Administration & Training  
@@ -24,6 +22,16 @@
 - Governance, Risk & Compliance (GRC)  
 - Digital Transformation Initiatives  
 
+---
+
+## 🛠️ Tech & Skills
+
+![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-orange?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-purple?style=for-the-badge)
 ---
 
 ## 🌐 Connect with Me
