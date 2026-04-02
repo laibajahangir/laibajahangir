@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Laiba%20Jahangir&fontSize=35&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=200&section=header&text=Laiba%20Jahangir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20DevSecOps%20%7C%20Kubestronaut&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=800&lines=DevOps+%7C+DevSecOps+Engineer;First+Female+Kubestronaut+%7C+Pakistan;Cloud+%7C+K8s+%7C+GRC+%7C+Automation;Open+to+Onsite+%7C+Remote+%7C+International+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=800&lines=First+Female+Kubestronaut+from+Pakistan;Cloud+%7C+K8s+%7C+GRC+%7C+Automation;Open+to+Onsite+%7C+Remote+%7C+International+Roles)](https://git.io/typing-svg)
 
 ---
 
@@ -170,4 +170,4 @@ I build **secure, scalable, automated platforms** that bridge the gap between de
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=120&section=footer)
