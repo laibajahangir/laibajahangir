@@ -12,11 +12,11 @@
 - 🤖 Interested in AI, Automation & AIOps  
 - 🎓 Completed Diploma in Artificial Intelligence Operations  
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight)
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibajahangir&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibajahangir&layout=compact&theme=tokyonight&cache_seconds=1800)
 ## 🎯 Focus Areas
 - DevOps & Automation  
 - Linux Administration & Training  
